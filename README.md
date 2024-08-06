@@ -1,5 +1,9 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/pgbsean/Surface-Pro-5-OpenCore/total) ![GitHub Created At](https://img.shields.io/github/created-at/pgbsean/Surface-Pro-5-OpenCore)
 
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Attension!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Attension!!!!!!!!!!!!!!!!!!!!!!!!Attension!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Attension!!!!!!!!!!!!!!!!!!!!!Attension!!!!!!!!!!!!!
+
+# It's also useful for Surface-Pro-6-OpenCore,just replace your OC folder. 
+ 
 
 
 # Surface-Pro-5-OpenCore
